@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luffy/static/css/main.34c7b2c8.css",
-    "main.js": "/luffy/static/js/main.9180791b.js",
+    "main.js": "/luffy/static/js/main.9cb5f5a2.js",
     "reactPlayerYouTube.js": "/luffy/static/js/reactPlayerYouTube.fdf998e0.chunk.js",
     "reactPlayerSoundCloud.js": "/luffy/static/js/reactPlayerSoundCloud.fd2144b3.chunk.js",
     "reactPlayerVimeo.js": "/luffy/static/js/reactPlayerVimeo.978ab117.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/revicons.woff": "/luffy/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/luffy/index.html",
     "main.34c7b2c8.css.map": "/luffy/static/css/main.34c7b2c8.css.map",
-    "main.9180791b.js.map": "/luffy/static/js/main.9180791b.js.map",
+    "main.9cb5f5a2.js.map": "/luffy/static/js/main.9cb5f5a2.js.map",
     "reactPlayerYouTube.fdf998e0.chunk.js.map": "/luffy/static/js/reactPlayerYouTube.fdf998e0.chunk.js.map",
     "reactPlayerSoundCloud.fd2144b3.chunk.js.map": "/luffy/static/js/reactPlayerSoundCloud.fd2144b3.chunk.js.map",
     "reactPlayerVimeo.978ab117.chunk.js.map": "/luffy/static/js/reactPlayerVimeo.978ab117.chunk.js.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.34c7b2c8.css",
-    "static/js/main.9180791b.js"
+    "static/js/main.9cb5f5a2.js"
   ]
 }
